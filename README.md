@@ -12,27 +12,28 @@ allows users to create Spotify Playlist by just one click
 
 ## Demonstration
 
+
 ## Techniques & Tools
 
 * Environment
-    * Poetry (1.4.1) (check [Notes]())
-    * python-dotenv (1.0.0)
+    * [poetry](https://python-poetry.org/docs/#installation) (1.4.1) (check [Notes]())
+    * [python-dotenv](https://pypi.org/project/python-dotenv/) (1.0.0)
 * Python (3.9)
-    * flask (2.2.3)
+    * [flask](https://flask.palletsprojects.com/en/2.2.x/) (2.2.3)
 * API
-    * Spotipy (2.23.0)
-    * OAuth 2.0 Authorization Flow
+    * [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/) (2.23.0)
+    * [OAuth 2.0 Authorization Flow](https://developer.spotify.com/documentation/web-api/tutorials/code-flow)
 * Webscraping
-    * beautifulsoup4 (4.12.2)
+    * [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) (4.12.2)
 
 ## How to use
 
 User may create a playlist of...
 
-* current Billboard Hot 100 songs by one click
+* current [Billboard Hot 100](https://www.billboard.com/charts/hot-100/) songs by one click
 * top 10 songs of preferred artist, just by entering his/her name and click submit
 
 ## Upcoming Features
 
 ## Notes
-* couldn't find Poetry after installing, try ```export PATH="$HOME/.local/bin:$PATH”```
+* couldn't find Poetry after installing, for Mac user try ```export PATH="$HOME/.local/bin:$PATH”```
