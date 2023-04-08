@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+{% extends 'bootstrap/base.html' %}
+<html>
+
+{% block title %} Playlist {% endblock %}
+
+{% block content %}
+<body>
+<form action="{{ url_for('playlist') }}" method='post'>
+    <label> Which playlist do you want to add? </label><br>
+    <a href=" {{ url_for('playlist', billboard='true') }} ">Today's Billboard 100</a><br>
+    <label>Top 10 Songs of Artist named...</label>
+    <input type='text' name='artist_name'>
+    <input type='submit'>
+</form>
+</body>
+{% endblock %}
+</html>
