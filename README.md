@@ -36,4 +36,6 @@ User may create a playlist of...
 ## Upcoming Features
 
 ## Notes
-* couldn't find Poetry after installing, for Mac user try ```export PATH="$HOME/.local/bin:$PATH”```
+* if couldn't find Poetry after installing, for Mac users try ```export PATH="$HOME/.local/bin:$PATH”```
+* if accidentally pushed files with sensitive information, try the solution [here](https://daily-dev-tips.com/posts/removing-a-env-file-from-git-history/)
+  * in order to delete history, you might need [this](https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error), and Mac users could take a look at [this](https://gist.github.com/kenandersen/2042103942473af82dd2)  
