@@ -16,9 +16,13 @@ allows users to create Spotify Playlist with just one click
 * OAuth Authorization
   ![Authorization](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/2.png)
 * Click Today's Billboard 100
+  ![click Billboard100](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/6.png)
    * Today's Billboard Hot 100 playlist created
+   ![billboard playlist](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/3.png)
 * Enter the preferred artist name
+  ![enter artist name](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/4.png)
    * Playlist of artist's Top 10 songs is created
+   ![artist playlist](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/5.png)
    
 
 ## Techniques & Tools
