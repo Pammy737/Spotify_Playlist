@@ -1,6 +1,6 @@
 # Spotify Playlist
 
-allows users to create Spotify Playlist by just one click
+allows users to create Spotify Playlist with just one click
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ allows users to create Spotify Playlist by just one click
 
 User may create a playlist of...
 
-* current [Billboard Hot 100](https://www.billboard.com/charts/hot-100/) songs by one click
+* current [Billboard Hot 100](https://www.billboard.com/charts/hot-100/) songs with one click
 * top 10 songs of preferred artist, just by entering his/her name and click submit
 
 ## Upcoming Features
