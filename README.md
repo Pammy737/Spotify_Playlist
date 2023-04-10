@@ -12,9 +12,9 @@ allows users to create Spotify Playlist with just one click
 
 ## Demonstration
 * Log in Page
-  [log in](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/1.png)
+  ![log in](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/1.png)
 * OAuth Authorization
-  [Authorization](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/2.png)
+  ![Authorization](https://github.com/Pammy737/Spotify_Playlist/blob/main/images/2.png)
 * Click Today's Billboard 100
    * Today's Billboard Hot 100 playlist created
 * Enter the preferred artist name
